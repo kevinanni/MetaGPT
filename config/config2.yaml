@@ -3,6 +3,6 @@
 # Config Docs: https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html
 llm:
   api_type: "openai"  # or azure / ollama / groq etc.
-  model: "ep-20250301204129-v5mmt"  # or gpt-3.5-turbo
-  base_url: "https://ark.cn-beijing.volces.com/api/v3"  # or forward url / other llm url
-  api_key: "0177df8f-cb60-44e3-9225-b85c654cc453"
+  base_url: "YOUR_BASE_URL"
+  api_key: "YOUR_API_KEY"
+  model: "gpt-4-turbo"  # or gpt-3.5-turbo
