@@ -200,4 +200,4 @@ metagpt/ext/aflow/data
 metagpt/ext/aflow/scripts/optimized
 
 # my config
-# /config/config2.yaml
+/config/config2.yaml
